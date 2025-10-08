@@ -1,0 +1,31 @@
+[Adblock Plus 1.1]
+! Title: PersonalBlocklist
+! Expires: 6 hours (update frequency)
+! Last modified: Wed  8 Oct 12:45:05 CEST 2025
+
+! ing.dk etc.
+ing.dk,radar.dk,version2.dk##.block-tm-kevel
+ing.dk,radar.dk,version2.dk##div.in-content-article
+ing.dk,radar.dk,version2.dk##.in-content-article
+ing.dk,radar.dk,version2.dk##.jobs-embed
+ing.dk,radar.dk,version2.dk##.jobs-wrapper
+ing.dk,radar.dk,version2.dk##.mns-embed
+ing.dk,radar.dk,version2.dk##.tmk-block
+ing.dk,radar.dk,version2.dk##.top-stories-block
+
+! https://theoldreader.com
+theoldreader.com###tor-in-feed-ad-container
+theoldreader.com##div#ad-container
+theoldreader.com##div#ad-container > ins.adsbygoogle
+theoldreader.com##div#banner_container.banner
+theoldreader.com##div#banner_container.banner > div.banner-inner
+theoldreader.com##div#in-feed-ad
+theoldreader.com##div#in-feed-ad > ins.adsbygoogle
+theoldreader.com##div#in-feed-ad-container   
+theoldreader.com##div#tor-ad-wrapper.ad-wrap-tor
+
+! https://www.unicodepedia.com                                                                                                    
+www.unicodepedia.com###cookiesBannerContainer
+
+! https://medium.com
+medium.com##.gf.fl.m.aej.aei.aeh.aeg.aef.aee.aed.aec.aeb.aea.adz.ady.adx.adw.pw-susi-modal
